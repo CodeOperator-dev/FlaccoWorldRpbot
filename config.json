@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "ODIwNDQ1NzIwMzI1NjUyNDkw.YE1Rng.MEF8DI_jI4khmpG5LbFOUgeUmK0",
+    "SERVER_URL": "88.214.59.109:30120",
+    "SERVER_LOGO": "https://s3.envato.com/files/280935954/preview_PIC.jpg",
+    "SERVER_NAME": "Flacco World Rp",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"820455948782010408",
+        "MEMES":"820456070245646416",
+        "ANIMALS":"820456118701522994"
+    }
+
+}
